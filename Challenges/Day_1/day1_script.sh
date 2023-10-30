@@ -24,6 +24,8 @@ echo "My hostname - $HOSTNAME"
 # Task 6
 echo "Files with .txt extension in the current directory:"
 ls *.txt
+
+# User input
 read answer
 echo " Day 1 task completed : $answer"
 
